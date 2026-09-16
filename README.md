@@ -16,3 +16,5 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
 Iteration 4: add more recipes
 Create two more recipe pages. Make sure they have the exact same layout as your first recipe page.
 Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+
+i was having a problem linking the three recipes pages together at first i linked them using there directory (recipes) but it didn't work then i removed the directory form th link and just used there files name since they where inthe same directory i thought it will work without including the directory inside the link.
